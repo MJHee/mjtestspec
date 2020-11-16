@@ -1,0 +1,6 @@
+framework module mjtestspec {
+  umbrella header "mjtestspec-umbrella.h"
+
+  export *
+  module * { export * }
+}

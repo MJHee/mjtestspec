@@ -1,0 +1,16 @@
+PODS:
+  - mjtestspec (0.1.0)
+
+DEPENDENCIES:
+  - mjtestspec (from `../`)
+
+EXTERNAL SOURCES:
+  mjtestspec:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mjtestspec: 2e3c77e5e5bcd450ce17983fad52b16f29179c35
+
+PODFILE CHECKSUM: cc8151324c2a8e27fa36e06ca24ed051525da867
+
+COCOAPODS: 1.10.0
